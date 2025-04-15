@@ -1,1 +1,2 @@
-# HELP_DESK_TICKETING_SYSTEM
+# Help-Desk-Ticketing-System
+A simple help dek ticketing system for fault reporting in JavaScript
